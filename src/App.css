@@ -1,0 +1,25 @@
+#dropdown-item-button{
+  margin-left: 120px;
+}
+h1,h4{display: flex;
+justify-content: center;
+margin: 0px 0 40px 0;
+padding-top: 40px;}
+h4{color: gray;}
+.row{margin:50px 20%}
+h2{display: flex;
+justify-content: left;
+font-size: 23px;
+margin: 0 20%;
+}
+.genderrow{margin-left:100px}
+.label{width:20px}
+main{background-image: url(https://image.freepik.com/free-photo/business-women-signature-document_1388-90.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#formGridCheckbox{margin: auto 10% 0 0;}
+.row2{display: flex;
+  justify-content: center;
+  margin:50px auto 0 auto;
+padding-bottom: 50px;}
