@@ -15,7 +15,8 @@ import {
 function App() {
   return (
     <div className="App">
-      <Navbar className="bg-light justify-content-between">
+      <Navbar  fixed="top"
+ className="bg-light justify-content-between">
         <Form inline>
           <InputGroup>
             <InputGroup.Prepend>
