@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Studentregistration/static/css/main.76c28d41.chunk.css",
+    "main.js": "/Studentregistration/static/js/main.5b23d12c.chunk.js",
+    "main.js.map": "/Studentregistration/static/js/main.5b23d12c.chunk.js.map",
+    "runtime-main.js": "/Studentregistration/static/js/runtime-main.0bb7a566.js",
+    "runtime-main.js.map": "/Studentregistration/static/js/runtime-main.0bb7a566.js.map",
+    "static/js/2.81532bce.chunk.js": "/Studentregistration/static/js/2.81532bce.chunk.js",
+    "static/js/2.81532bce.chunk.js.map": "/Studentregistration/static/js/2.81532bce.chunk.js.map",
+    "index.html": "/Studentregistration/index.html",
+    "precache-manifest.c8def853bf3e8ed6f56a1a1ed5c0377c.js": "/Studentregistration/precache-manifest.c8def853bf3e8ed6f56a1a1ed5c0377c.js",
+    "service-worker.js": "/Studentregistration/service-worker.js",
+    "static/css/main.76c28d41.chunk.css.map": "/Studentregistration/static/css/main.76c28d41.chunk.css.map",
+    "static/js/2.81532bce.chunk.js.LICENSE.txt": "/Studentregistration/static/js/2.81532bce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Studentregistration/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb7a566.js",
+    "static/js/2.81532bce.chunk.js",
+    "static/css/main.76c28d41.chunk.css",
+    "static/js/main.5b23d12c.chunk.js"
+  ]
+}
